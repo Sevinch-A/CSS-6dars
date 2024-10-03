@@ -1,0 +1,27 @@
+.box{
+    width: 5500px;
+}
+.box-item2{
+    width: 350px;
+    height: 300px;
+    background-color: white;
+    padding: 50px 25px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    border: 2px solid rgb(247, 244, 244);
+    margin-top: 30px;
+}
+.box-item3{
+    width: 350px;
+    height: 300px;
+    background-color: white;
+    padding: 50px 25px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    border: 2px solid rgb(247, 244, 244);
+    margin-top: 30px;
+    margin-left: 323px;
+    margin-top: -289px;
+}
